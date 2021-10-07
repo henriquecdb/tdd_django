@@ -23,7 +23,7 @@ class NewVisitorTest(unittest.TestCase):
 # Ela digita "Buy peacock feathers" (Comprar penas de pavão) em uma caixa
 # de texto (o hobby de Edith é fazer iscas para pesca cmo fly)
 
-# Quando ela tecla enter, a página é atualizada, e agora a página lista
+# Quando ela tecla enter, a página é atualizada, e agora a página lista 
 # "1: Buy peacock feathers" como um item em uma lista de tarefas
 
 # Ainda continua havendo um caixa de texto convidando-a a acrescentar outro
